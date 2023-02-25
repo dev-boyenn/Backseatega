@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "backseatega",
+  "version": "${version}",
+  "name": "Backseatega",
+  "description": "",
+  "authors": [
+    "dev-boyenn"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {},
+  "mixins": [
+    "Backseatega.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.12.1"
+  }
+}
